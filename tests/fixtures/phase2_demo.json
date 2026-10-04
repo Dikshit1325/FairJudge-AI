@@ -1,0 +1,13 @@
+{
+  "project_name": "Operis AI (fictional Phase 2 demo)",
+  "rubric": [
+    {"criterion": "Innovation", "max_score": 20, "evaluation_guidance": "Novelty and differentiation"},
+    {"criterion": "Technical", "max_score": 30, "evaluation_guidance": "Implementation and technical execution"},
+    {"criterion": "Impact", "max_score": 20, "evaluation_guidance": "Potential value and demonstrated impact"}
+  ],
+  "judge_evaluations": [
+    {"judge_id": "judge-a", "judge_name": "Fictional Judge A", "scores": {"Innovation": 18, "Technical": 27, "Impact": 16}, "evidence": {"Innovation": ["Combines Chrome Extension activity tracking with ML burnout prediction."], "Technical": ["Uses a React dashboard and Logistic Regression."], "Impact": ["Displays burnout risk to users."]}, "reasoning": {"Innovation": "The integration could be differentiated.", "Technical": "The described components are connected in one workflow.", "Impact": "The risk display could help users reflect on workload."}},
+    {"judge_id": "judge-b", "judge_name": "Fictional Judge B", "scores": {"Innovation": 12, "Technical": 25, "Impact": 10}, "evidence": {"Innovation": ["Uses Logistic Regression and a React dashboard."], "Technical": ["Uses a React dashboard and Logistic Regression."], "Impact": ["Displays burnout risk to users."]}, "reasoning": {"Innovation": "Similar approaches already exist.", "Technical": "The supplied details do not describe implementation depth.", "Impact": "No measured outcomes are supplied."}},
+    {"judge_id": "judge-c", "judge_name": "Fictional Judge C", "scores": {"Innovation": 15, "Technical": 28, "Impact": 14}, "evidence": {"Innovation": ["Tracks real-time activity and displays burnout risk."], "Technical": ["Uses a React dashboard and Logistic Regression."], "Impact": ["Displays burnout risk to users."]}, "reasoning": {"Innovation": "The end-to-end flow is a notable combination.", "Technical": "The submission describes a coherent implementation.", "Impact": "The intended use is clear, while outcomes are not measured."}}
+  ]
+}

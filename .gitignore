@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+frontend/node_modules/
+frontend/dist/
+frontend/tsconfig.tsbuildinfo

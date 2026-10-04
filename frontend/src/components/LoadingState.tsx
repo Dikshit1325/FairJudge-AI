@@ -1,0 +1,1 @@
+export default function LoadingState({ label }: { label: string }) { return <div className="loading-card" role="status"><span className="spinner" aria-hidden="true"/><div><strong>{label}</strong><p>Local model responses can take a little while.</p></div></div> }
